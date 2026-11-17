@@ -108,3 +108,8 @@ h1 {
   .l {
     justify-content: space-between;
   }
+
+ .h2 {
+  font-size: 40px;
+  color: aliceblue;
+ }
